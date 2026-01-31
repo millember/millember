@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет,+я+Нияз+Кашапов!;Python-разработчик;Django+•+DRF+•+PostgreSQL&center=true&size=30)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9D%D0%B8%D1%8F%D0%B7+%D0%9A%D0%B0%D1%88%D0%B0%D0%BF%D0%BE%D0%B2!;Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;Django+%E2%80%A2+DRF+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker)](https://git.io/typing-svg)
 
 </div>
 

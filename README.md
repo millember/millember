@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**millember/millember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Привет,+я+Нияз+Кашапов!;Python-разработчик;Django+•+DRF+•+PostgreSQL&center=true&size=30)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 👨‍💻 Обо мне
+Python-разработчик с фокусом на backend. Сменил карьеру с нефтегазовой отрасли на IT. Учусь в **Школе 21 (Казань)**, создаю проекты на Django/DRF.
+
+📫 **Контакты:**  
+[cashap.niyaz20@gmail.com](mailto:cashap.niyaz20@gmail.com) | [@nikolasy22](https://t.me/nikolasy22)  
+📍 Казань | 🚀 Готов к переезду
+
+---
+
+### 🚀 Проекты
+- **Трекер привычек** – API для трекинга привычек (Django, DRF, PostgreSQL, Celery, Telegram Bot)
+- **Сервис рассылок** – Управление email/SMS рассылками (Django, CRON, Bootstrap)
+- **Трекер задач** – Система учёта задач сотрудников (Django REST, тестирование)
+
+📁 **Портфолио:** [github.com/millember](https://github.com/millember)
+
+---
+
+### 🛠️ Стек
+**Backend:** Python, Django, DRF, Celery, Redis, REST API  
+**Базы данных:** PostgreSQL, SQLite  
+**Инструменты:** Docker, Git, GitHub Actions, Linux  
+**Тестирование:** pytest, unittest, TDD  
+**Фронтенд:** HTML, CSS, Bootstrap (базово)
+
+---
+
+### 📈 Опыт
+- **Python-разработчик** (фев 2024 – н.в.) – обучение и проекты на Django/DRF
+- **Инженер в ЛУКОЙЛ** (сен 2023 – май 2025) – автоматизация процессов, работа с данными
+
+---
+
+### 📚 Образование
+- **УГНТУ** – Геология нефти и газа (2023)  
+- **Школа 21 (Казань)** – интенсив по программированию (2025 – н.в.)  
+- **Курсы:** Stepik, Skypro (Python-разработчик)
